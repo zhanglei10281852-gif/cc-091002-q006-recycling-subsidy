@@ -1,0 +1,1 @@
+{"name":"recycling-subsidy-settlement","version":"0.9.0","private":true,"type":"module","scripts":{"test":"node --test"},"engines":{"node":">=20"},"description":"再生资源回收补贴核算服务"}

@@ -1,0 +1,1 @@
+{"rates":[{"version":"2026.1","material":"pet-a","effectiveFrom":"2026-01-01","centsPerKg":25}],"transaction":{"id":"TX-1","company":"REC-1","material":"pet-a","weightKg":100,"occurredAt":"2026-09-10T09:00:00+08:00"},"monthlyCapCents":10000}
